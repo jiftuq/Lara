@@ -26,7 +26,7 @@ package-lock.json
 
 # Composer specific files
 composer.phar
-composer.lock
+
 
 # Login stuff should not be public
 config/bcLDAP.php
